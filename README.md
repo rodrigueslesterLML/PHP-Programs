@@ -9,3 +9,4 @@ This is a repository of code performed during lectures  coursework for IP at MU 
 5. foreach.php   --> Demonstration of foreach loop
 6. whileloop.php --> Demonstration of while loop
 7. function.php  --> Demonstration of functions
+8. [function.php](https://github.com/rodrigueslesterLML/PHP-Programs/blob/master/function.php)
