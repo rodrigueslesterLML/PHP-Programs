@@ -1,7 +1,7 @@
 ## PHP Programs
 
 This is a repository of code performed during lectures  coursework for IP at MU 2021 :relieved: :purple_heart: :purple_heart: :purple_heart: :school:
-
+Programs for practice : [Click Here](https://github.com/rodrigueslesterLML/PHP-Programs/tree/master/Practice)
 Sr. No.  | Program 
 ------------ | -------------
 01 | [Introduction](https://github.com/rodrigueslesterLML/PHP-Programs/tree/master/Intro)
