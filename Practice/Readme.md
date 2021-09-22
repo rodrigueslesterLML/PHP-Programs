@@ -7,9 +7,9 @@
 5. Variables are case sensitive
 6. Comments: Single line --> # or // | Multiline: /* */
 
-```markdown
-# Variables
 
+# Variables
+```markdown
 1. It is created when you assign value to it
 2. Variable syntax: $variablename = value;
 3. A variable name must start with a letter or the underscorecharacter and not number and  can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
