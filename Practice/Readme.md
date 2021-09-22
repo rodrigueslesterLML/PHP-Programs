@@ -7,6 +7,7 @@
 5. Variables are case sensitive
 6. Comments: Single line --> # or // | Multiline: /* */
 
+```markdown
 # Variables
 
 1. It is created when you assign value to it
@@ -14,6 +15,7 @@
 3. A variable name must start with a letter or the underscorecharacter and not number and  can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 4. **Output Variable**: echo.
 5. PHP is a Loosely typed language . However  we can specify strict / non strict as per type matching requirement.
+```
 
 ## Variable Scope:
 1. declared outside a function --> GLOBAL SCOPE--> accessed outside a function.
