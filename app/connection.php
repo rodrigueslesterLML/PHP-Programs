@@ -1,20 +1,19 @@
 <?php
-function Open()
+function OpenCon()
 {
-    $server="localhost";
-    $uname="root";
+    $servername="localhost";
+    $username="root";
     $pwd="";
     $dbname="registration";
-    $con=mysqli_connect($server,$uname,$pwd,$dbname);
+    $con=mysqli_connect($servername,$username,$pwd,$dbname);
     if(!$con)
     {
-        die("Connection Unsuccessful".mysqli_connect_error()) ;
+        die("Connection Unsuccessful".mysqli_connect_error());
     }
-return $con;
+    return $con;
 }
 function Close($con)
 {
     $con->close();
 }
-
 ?>
